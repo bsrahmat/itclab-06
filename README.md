@@ -27,6 +27,8 @@ To easily understand how to program the PID-iTCLab control system using the Ardu
 
 Complete PID-iTCLab control results can also be read in the following PDF file : https://www.academia.edu/101755925.
 
+The PID-iTCLab control results above are compared with the Energy Balance Dynamic Modeling results. The result is outstanding. The results of the PID-iTCLab control are towards the expected Set Point. Energy Balance Dynamic Modeling also shows good performance, indicated by a similar dynamic pattern. The results of PID-iTCLab control are shown in the following video:
+
 [![Watch the video](https://github.com/bsrahmat/itclab-06/blob/main/vid_itclab1.jpg)](https://youtu.be/qTR8vBU19Ck)
 
 
