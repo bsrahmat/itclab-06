@@ -27,6 +27,9 @@ To easily understand how to program the PID-iTCLab control system using the Ardu
 
 Complete PID-iTCLab control results can also be read in the following PDF file : https://www.academia.edu/101755925.
 
+[![Watch the video](https://github.com/bsrahmat/itclab-06/blob/main/vid_itclab1.jpg)](https://youtu.be/qTR8vBU19Ck)
+
+
 In practice, it can be implemented in the Internet-Based Temperature Control Lab (iTCLab) Kit.
 
 iTCLab - Internet-Based Temperature Control Lab. Temperature control kit for feedback control applications with an ESP32 Microcontroller, LED, two heaters, and two temperature sensors. The heating power output is adjusted to maintain the desired temperature setpoint. Heat energy from the heater is transferred by conduction, convection, and radiation to the temperature sensor. Heat is also transferred from the device to the environment.
