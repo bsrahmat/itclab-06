@@ -7,26 +7,23 @@ About Advanced iTCLab Research
   <img src="https://github.com/bsrahmat/itclab-05/blob/main/jupyter0.jpg" alt="" class="img-responsive" width="700">
 </p>
 
-Required program files:
+# Required program files:
+
 The files needed to run the iTCLab Kit test using the Jupyter Notebook Python Programming Language, namely:
-1. Programs must be uploaded in the iTCLab Kit (05-iTCLab_PID.ino) https://github.com/bsrahmat/itclab-05/blob/main/05-iTCLab_PID.ino.
-2. Module Program File (itclab.py) https://github.com/bsrahmat/itclab-05/blob/main/itclab.py.
-3. Script Program to run the iTCLab Kit Testing process using Python Jupyter Notebook (iTCLab_test.ipynb) https://github.com/bsrahmat/itclab-05/blob/main/iTCLab_test.ipynb.
+1. Programs must be uploaded in the iTCLab Kit (05-iTCLab_PID.ino) https://github.com/bsrahmat/itclab-06/blob/main/05-iTCLab_PID.ino.
+2. Module Program File (itclab.py) https://github.com/bsrahmat/itclab-06/blob/main/itclab.py.
+3. Script Program to run the iTCLab Kit Testing process using Python Jupyter Notebook (iTCLab-PID-01.ipynb) https://github.com/bsrahmat/itclab-06/blob/main/iTCLab-PID-01.ipynb.
 
 The programs above are the development of programs that have been made by the BYU Campus.
 
 The following pictures are examples of the test results.
 
 <p align="center">
-  <img src="https://github.com/bsrahmat/itclab-05/blob/main/jupyter01.jpg" alt="" class="img-responsive" width="700">
-</p>
-
-<p align="center">
-  <img src="https://github.com/bsrahmat/itclab-05/blob/main/jupyter02.jpg" alt="" class="img-responsive" width="700">
+  <img src="https://github.com/bsrahmat/itclab-06/blob/main/pid05.jpg" alt="" class="img-responsive" width="700">
 </p>
 
 
-To easily understand how the iTCLab Kit Programming Using the Arduino and Python, you can read the following tutorial (Indonesian version): https://www.academia.edu/101741545.
+To easily understand how to program the PID-iTCLab control system using the Arduino and Python, you can read the following tutorial (Indonesian version): https://www.academia.edu/101744056.
 
 In practice, it can be implemented in the Internet-Based Temperature Control Lab (iTCLab) Kit.
 
