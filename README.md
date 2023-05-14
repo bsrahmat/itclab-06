@@ -9,7 +9,7 @@ About Advanced iTCLab Research
 
 # Required program files:
 
-The files needed to run the iTCLab Kit test using the Jupyter Notebook Python Programming Language, namely:
+The files needed to run the iTCLab Kit test using PID Controller, namely:
 1. Programs must be uploaded in the iTCLab Kit (05-iTCLab_PID.ino) https://github.com/bsrahmat/itclab-06/blob/main/05-iTCLab_PID.ino.
 2. Module Program File (itclab.py) https://github.com/bsrahmat/itclab-06/blob/main/itclab.py.
 3. Script Program to run the iTCLab Kit Testing process using Python Jupyter Notebook (iTCLab-PID-01.ipynb) https://github.com/bsrahmat/itclab-06/blob/main/iTCLab-PID-01.ipynb.
