@@ -1,7 +1,7 @@
 # itclab-06 -  PID-iTCLab Controller System Using the Arduino and Python
 About Advanced iTCLab Research
 
-# Proportional Integral Derivative (PID)-iTCLab Control Programming Using the Arduino and Python
+# Proportional Integral Derivative (PID)-iTCLab Control System Programming Using the Arduino and Python
 
 <p align="center">
   <img src="https://github.com/bsrahmat/itclab-05/blob/main/jupyter0.jpg" alt="" class="img-responsive" width="700">
